@@ -814,6 +814,11 @@ hr {
 }
 
 /*======== menu fixed css ========*/
+
+.fondo_2{
+  background: white !important;
+  color: black !important;
+}
 .navbar_fixed {
   width: 100%;
   left: 0;
@@ -3996,7 +4001,7 @@ hr {
 /* footer area css
 ===================================================*/
 .footer-area {
-  background: rgb(98, 3, 12,0.95);
+  background:rgba(176, 3, 20, 0.89);
   padding-top: 100px;
 }
 
